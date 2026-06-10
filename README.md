@@ -30,9 +30,9 @@ Building scalable backend systems, cloud-native infrastructure, and intelligent 
 
 ## Tech Stack
 
-### Backend & APIs
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql,spring,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql,spring,fastapi,kafka" />
 </p>
 
 ### Frontend
@@ -47,7 +47,7 @@ Building scalable backend systems, cloud-native infrastructure, and intelligent 
 
 ### DevOps & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,git,bash,grafana,prometheus,ansible" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,git,githubactions,bash,grafana,prometheus,ansible,jenkins" />
 </p>
 
 ### Testing & Tools

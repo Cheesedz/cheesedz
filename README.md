@@ -47,7 +47,7 @@ Building scalable backend systems, cloud-native infrastructure, and intelligent 
 
 ### DevOps & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,git,githubactions,bash,grafana,prometheus,ansible,jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,git,githubactions,bash,grafana,prometheus,ansible,jenkins,terraform" />
 </p>
 
 ### Testing & Tools
